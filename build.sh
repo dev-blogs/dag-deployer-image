@@ -1,1 +1,1 @@
-docker build -t dags-deployer-image .
+docker build -t ubuntu-image-with-rsync .
